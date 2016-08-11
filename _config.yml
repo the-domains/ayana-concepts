@@ -1,4 +1,5 @@
 layout_spectrum: 0.008960574
+typography_spectrum: 0.6594982
 color:
   saturation: 1
   lightness: 0.7007169
@@ -10,5 +11,4 @@ color:
     - '#577048'
     - '#859763'
   rhythmicContrast: 0.2222222
-typography_spectrum: 0.7921147
 name: AYANA CONCEPTS
